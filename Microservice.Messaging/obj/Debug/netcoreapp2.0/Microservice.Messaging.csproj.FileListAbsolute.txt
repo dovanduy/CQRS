@@ -1,0 +1,9 @@
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Messaging\bin\Debug\netcoreapp2.0\Microservice.Messaging.deps.json
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Messaging\bin\Debug\netcoreapp2.0\Microservice.Messaging.dll
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Messaging\bin\Debug\netcoreapp2.0\Microservice.Messaging.pdb
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Messaging\obj\Debug\netcoreapp2.0\Microservice.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Messaging\obj\Debug\netcoreapp2.0\Microservice.Messaging.AssemblyInfoInputs.cache
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Messaging\obj\Debug\netcoreapp2.0\Microservice.Messaging.AssemblyInfo.cs
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Messaging\obj\Debug\netcoreapp2.0\Microservice.Messaging.dll
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Messaging\obj\Debug\netcoreapp2.0\Microservice.Messaging.pdb
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Messaging\obj\Debug\netcoreapp2.0\Microservice.Messaging.csprojAssemblyReference.cache

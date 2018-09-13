@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservice", "Microservice\Microservice.csproj", "{FD4D7259-174B-405D-A123-4FBAB60A817E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservice.Messaging", "Microservice.Messaging\Microservice.Messaging.csproj", "{0B51C5CD-7279-475F-A1C1-DE375BA47E3F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservice.Notification", "Microservice.Notification\Microservice.Notification.csproj", "{16D4B62F-CCC2-45DB-B2C0-86E5879F0AC7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservice.Registration.Service", "Microservice.Registration.Service\Microservice.Registration.Service.csproj", "{6C1A5B47-584B-4C57-8F73-4BB6206895AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.Saga", "Microservice.Saga\Microservice.Saga.csproj", "{2FCB7DCC-AADB-4F3C-84A5-C36F3762409B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4D7259-174B-405D-A123-4FBAB60A817E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4D7259-174B-405D-A123-4FBAB60A817E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4D7259-174B-405D-A123-4FBAB60A817E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4D7259-174B-405D-A123-4FBAB60A817E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B51C5CD-7279-475F-A1C1-DE375BA47E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B51C5CD-7279-475F-A1C1-DE375BA47E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B51C5CD-7279-475F-A1C1-DE375BA47E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B51C5CD-7279-475F-A1C1-DE375BA47E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D4B62F-CCC2-45DB-B2C0-86E5879F0AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D4B62F-CCC2-45DB-B2C0-86E5879F0AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D4B62F-CCC2-45DB-B2C0-86E5879F0AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D4B62F-CCC2-45DB-B2C0-86E5879F0AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1A5B47-584B-4C57-8F73-4BB6206895AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1A5B47-584B-4C57-8F73-4BB6206895AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1A5B47-584B-4C57-8F73-4BB6206895AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1A5B47-584B-4C57-8F73-4BB6206895AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FCB7DCC-AADB-4F3C-84A5-C36F3762409B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCB7DCC-AADB-4F3C-84A5-C36F3762409B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCB7DCC-AADB-4F3C-84A5-C36F3762409B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCB7DCC-AADB-4F3C-84A5-C36F3762409B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26746A1A-223A-4108-9DDA-90F3FCFE65F3}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.56.99:8080/tfs/home_dev
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Microservice\\Microservice.csproj
+		SccProjectName1 = Microservice
+		SccLocalPath1 = Microservice
+		SccProjectUniqueName2 = Microservice.Messaging\\Microservice.Messaging.csproj
+		SccProjectName2 = Microservice.Messaging
+		SccLocalPath2 = Microservice.Messaging
+		SccProjectUniqueName3 = Microservice.Notification\\Microservice.Notification.csproj
+		SccProjectName3 = Microservice.Notification
+		SccLocalPath3 = Microservice.Notification
+		SccProjectUniqueName4 = Microservice.Registration.Service\\Microservice.Registration.Service.csproj
+		SccProjectName4 = Microservice.Registration.Service
+		SccLocalPath4 = Microservice.Registration.Service
+		SccProjectUniqueName5 = Microservice.Saga\\Microservice.Saga.csproj
+		SccProjectName5 = Microservice.Saga
+		SccLocalPath5 = Microservice.Saga
+	EndGlobalSection
+EndGlobal

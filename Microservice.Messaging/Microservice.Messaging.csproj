@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MassTransit.RabbitMQ" Version="4.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="GreenPipes">
+      <HintPath>..\..\..\..\..\..\..\.nuget\packages\greenpipes\1.2.1\lib\netstandard2.0\GreenPipes.dll</HintPath>
+    </Reference>
+    <Reference Include="MassTransit">
+      <HintPath>..\..\..\..\..\..\..\.nuget\packages\masstransit\4.0.1\lib\netstandard2.0\MassTransit.dll</HintPath>
+    </Reference>
+    <Reference Include="MassTransit.RabbitMqTransport">
+      <HintPath>..\..\..\..\..\..\..\.nuget\packages\masstransit.rabbitmq\4.0.1\lib\netstandard2.0\MassTransit.RabbitMqTransport.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

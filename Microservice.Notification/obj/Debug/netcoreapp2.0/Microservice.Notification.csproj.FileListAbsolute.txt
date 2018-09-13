@@ -1,0 +1,12 @@
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Notification\bin\Debug\netcoreapp2.0\Microservice.Notification.deps.json
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Notification\bin\Debug\netcoreapp2.0\Microservice.Notification.dll
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Notification\bin\Debug\netcoreapp2.0\Microservice.Notification.pdb
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Notification\obj\Debug\netcoreapp2.0\Microservice.Notification.csproj.CoreCompileInputs.cache
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Notification\obj\Debug\netcoreapp2.0\Microservice.Notification.AssemblyInfoInputs.cache
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Notification\obj\Debug\netcoreapp2.0\Microservice.Notification.AssemblyInfo.cs
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Notification\obj\Debug\netcoreapp2.0\Microservice.Notification.dll
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Notification\obj\Debug\netcoreapp2.0\Microservice.Notification.pdb
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Notification\bin\Debug\netcoreapp2.0\Microservice.Messaging.dll
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Notification\bin\Debug\netcoreapp2.0\Microservice.Messaging.pdb
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Notification\obj\Debug\netcoreapp2.0\Microservice.Notification.csproj.CopyComplete
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Notification\obj\Debug\netcoreapp2.0\Microservice.Notification.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Saga\bin\Debug\netcoreapp2.0\Microservice.Saga.deps.json
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Saga\bin\Debug\netcoreapp2.0\Microservice.Saga.runtimeconfig.json
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Saga\bin\Debug\netcoreapp2.0\Microservice.Saga.runtimeconfig.dev.json
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Saga\bin\Debug\netcoreapp2.0\Microservice.Saga.dll
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Saga\obj\Debug\netcoreapp2.0\Microservice.Saga.csproj.CoreCompileInputs.cache
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Saga\obj\Debug\netcoreapp2.0\Microservice.Saga.AssemblyInfoInputs.cache
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Saga\obj\Debug\netcoreapp2.0\Microservice.Saga.AssemblyInfo.cs
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Saga\obj\Debug\netcoreapp2.0\Microservice.Saga.csprojAssemblyReference.cache
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Saga\bin\Debug\netcoreapp2.0\Microservice.Saga.pdb
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Saga\bin\Debug\netcoreapp2.0\Microservice.Messaging.dll
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Saga\bin\Debug\netcoreapp2.0\Microservice.Messaging.pdb
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Saga\obj\Debug\netcoreapp2.0\Microservice.Saga.csproj.CopyComplete
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Saga\obj\Debug\netcoreapp2.0\Microservice.Saga.dll
+C:\Users\Bejerano\Source\Development\Development\Web Projects\Microservice\Microservice\Microservice.Saga\obj\Debug\netcoreapp2.0\Microservice.Saga.pdb
