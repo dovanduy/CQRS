@@ -6639,11 +6639,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Saga\\Microservice.Saga.csproj",
+      "projectUniqueName": "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Saga\\Microservice.Saga.csproj",
       "projectName": "Microservice.Saga",
-      "projectPath": "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Saga\\Microservice.Saga.csproj",
+      "projectPath": "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Saga\\Microservice.Saga.csproj",
       "packagesPath": "C:\\Users\\Bejerano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Saga\\obj\\",
+      "outputPath": "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Saga\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6663,8 +6663,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Messaging\\Microservice.Messaging.csproj": {
-              "projectPath": "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Messaging\\Microservice.Messaging.csproj"
+            "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Messaging\\Microservice.Messaging.csproj": {
+              "projectPath": "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Messaging\\Microservice.Messaging.csproj"
             }
           }
         }

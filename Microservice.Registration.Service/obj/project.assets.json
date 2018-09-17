@@ -6594,11 +6594,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Registration.Service\\Microservice.Registration.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Registration.Service\\Microservice.Registration.Service.csproj",
       "projectName": "Microservice.Registration.Service",
-      "projectPath": "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Registration.Service\\Microservice.Registration.Service.csproj",
+      "projectPath": "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Registration.Service\\Microservice.Registration.Service.csproj",
       "packagesPath": "C:\\Users\\Bejerano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Registration.Service\\obj\\",
+      "outputPath": "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Registration.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6618,8 +6618,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Messaging\\Microservice.Messaging.csproj": {
-              "projectPath": "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Messaging\\Microservice.Messaging.csproj"
+            "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Messaging\\Microservice.Messaging.csproj": {
+              "projectPath": "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Messaging\\Microservice.Messaging.csproj"
             }
           }
         }

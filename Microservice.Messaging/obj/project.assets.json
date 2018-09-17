@@ -6574,11 +6574,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Messaging\\Microservice.Messaging.csproj",
+      "projectUniqueName": "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Messaging\\Microservice.Messaging.csproj",
       "projectName": "Microservice.Messaging",
-      "projectPath": "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Messaging\\Microservice.Messaging.csproj",
+      "projectPath": "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Messaging\\Microservice.Messaging.csproj",
       "packagesPath": "C:\\Users\\Bejerano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Messaging\\obj\\",
+      "outputPath": "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Messaging\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

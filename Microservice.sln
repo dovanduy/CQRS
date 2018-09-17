@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservice.Notification",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservice.Registration.Service", "Microservice.Registration.Service\Microservice.Registration.Service.csproj", "{6C1A5B47-584B-4C57-8F73-4BB6206895AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.Saga", "Microservice.Saga\Microservice.Saga.csproj", "{2FCB7DCC-AADB-4F3C-84A5-C36F3762409B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservice.Saga", "Microservice.Saga\Microservice.Saga.csproj", "{2FCB7DCC-AADB-4F3C-84A5-C36F3762409B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.Employee", "Microservice.Employee\Microservice.Employee.csproj", "{734555E5-59F7-4966-9D17-40B756D030D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.Kernel", "Microservice.Kernel\Microservice.Kernel.csproj", "{3AAF7728-48CD-4FD4-94B4-18B79D84B8FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,32 +43,19 @@ Global
 		{2FCB7DCC-AADB-4F3C-84A5-C36F3762409B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FCB7DCC-AADB-4F3C-84A5-C36F3762409B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FCB7DCC-AADB-4F3C-84A5-C36F3762409B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{734555E5-59F7-4966-9D17-40B756D030D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734555E5-59F7-4966-9D17-40B756D030D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734555E5-59F7-4966-9D17-40B756D030D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734555E5-59F7-4966-9D17-40B756D030D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AAF7728-48CD-4FD4-94B4-18B79D84B8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AAF7728-48CD-4FD4-94B4-18B79D84B8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AAF7728-48CD-4FD4-94B4-18B79D84B8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AAF7728-48CD-4FD4-94B4-18B79D84B8FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {26746A1A-223A-4108-9DDA-90F3FCFE65F3}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 6
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://192.168.56.99:8080/tfs/home_dev
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Microservice\\Microservice.csproj
-		SccProjectName1 = Microservice
-		SccLocalPath1 = Microservice
-		SccProjectUniqueName2 = Microservice.Messaging\\Microservice.Messaging.csproj
-		SccProjectName2 = Microservice.Messaging
-		SccLocalPath2 = Microservice.Messaging
-		SccProjectUniqueName3 = Microservice.Notification\\Microservice.Notification.csproj
-		SccProjectName3 = Microservice.Notification
-		SccLocalPath3 = Microservice.Notification
-		SccProjectUniqueName4 = Microservice.Registration.Service\\Microservice.Registration.Service.csproj
-		SccProjectName4 = Microservice.Registration.Service
-		SccLocalPath4 = Microservice.Registration.Service
-		SccProjectUniqueName5 = Microservice.Saga\\Microservice.Saga.csproj
-		SccProjectName5 = Microservice.Saga
-		SccLocalPath5 = Microservice.Saga
 	EndGlobalSection
 EndGlobal

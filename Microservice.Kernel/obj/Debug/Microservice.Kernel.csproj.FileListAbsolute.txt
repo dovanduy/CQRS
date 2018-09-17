@@ -1,0 +1,14 @@
+C:\Users\Bejerano\Source\repos\Microservice\Microservice.Kernel\bin\Debug\Microservice.Kernel.dll
+C:\Users\Bejerano\Source\repos\Microservice\Microservice.Kernel\bin\Debug\Microservice.Kernel.pdb
+C:\Users\Bejerano\Source\repos\Microservice\Microservice.Kernel\bin\Debug\CQRSlite.dll
+C:\Users\Bejerano\Source\repos\Microservice\Microservice.Kernel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bejerano\Source\repos\Microservice\Microservice.Kernel\bin\Debug\StackExchange.Redis.dll
+C:\Users\Bejerano\Source\repos\Microservice\Microservice.Kernel\bin\Debug\CQRSlite.pdb
+C:\Users\Bejerano\Source\repos\Microservice\Microservice.Kernel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bejerano\Source\repos\Microservice\Microservice.Kernel\bin\Debug\StackExchange.Redis.pdb
+C:\Users\Bejerano\Source\repos\Microservice\Microservice.Kernel\bin\Debug\StackExchange.Redis.xml
+C:\Users\Bejerano\Source\repos\Microservice\Microservice.Kernel\obj\Debug\Microservice.Kernel.csprojAssemblyReference.cache
+C:\Users\Bejerano\Source\repos\Microservice\Microservice.Kernel\obj\Debug\Microservice.Kernel.csproj.CoreCompileInputs.cache
+C:\Users\Bejerano\Source\repos\Microservice\Microservice.Kernel\obj\Debug\Microservice.Kernel.csproj.CopyComplete
+C:\Users\Bejerano\Source\repos\Microservice\Microservice.Kernel\obj\Debug\Microservice.Kernel.dll
+C:\Users\Bejerano\Source\repos\Microservice\Microservice.Kernel\obj\Debug\Microservice.Kernel.pdb

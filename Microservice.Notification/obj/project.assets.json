@@ -6593,11 +6593,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Notification\\Microservice.Notification.csproj",
+      "projectUniqueName": "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Notification\\Microservice.Notification.csproj",
       "projectName": "Microservice.Notification",
-      "projectPath": "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Notification\\Microservice.Notification.csproj",
+      "projectPath": "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Notification\\Microservice.Notification.csproj",
       "packagesPath": "C:\\Users\\Bejerano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Notification\\obj\\",
+      "outputPath": "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Notification\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6617,8 +6617,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Messaging\\Microservice.Messaging.csproj": {
-              "projectPath": "C:\\Users\\Bejerano\\Source\\Development\\Development\\Web Projects\\Microservice\\Microservice\\Microservice.Messaging\\Microservice.Messaging.csproj"
+            "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Messaging\\Microservice.Messaging.csproj": {
+              "projectPath": "C:\\Users\\Bejerano\\Source\\repos\\Microservice\\Microservice.Messaging\\Microservice.Messaging.csproj"
             }
           }
         }
